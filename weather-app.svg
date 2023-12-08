@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="weather-app.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.30047574"
+     inkscape:cx="534.15294"
+     inkscape:cy="450.95154"
+     inkscape:window-width="1368"
+     inkscape:window-height="683"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="13.765548,168.71845"
+       orientation="1,0"
+       id="guide8"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="196.75471,153.16982"
+       orientation="1,0"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="133.24528,154.4151"
+       orientation="1,0"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="133.24528,135.11321"
+       orientation="0,-1"
+       id="guide11"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="420.33653,135.11321"
+       orientation="0,-1"
+       id="guide23"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#bdecf5;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect31"
+       width="210"
+       height="256.90042"
+       x="0"
+       y="40.099571"
+       ry="2.9296875e-06" />
+    <rect
+       style="fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2"
+       width="210"
+       height="40.099571"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.56112px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans';fill:#bdecf5;fill-opacity:1;stroke:none;stroke-width:0.7259;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="132.77972"
+       y="22.199034"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#bdecf5;fill-opacity:1;stroke:none;stroke-width:0.7259"
+         x="132.77972"
+         y="22.199034">Belleville, Ontario</tspan></text>
+    <rect
+       style="fill:none;stroke:#bdecf5;stroke-width:0.725913;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1"
+       width="96.70462"
+       height="14.385579"
+       x="13.665021"
+       y="12.856996"
+       ry="6.9252038" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.56125px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans';fill:#bdecf5;fill-opacity:1;stroke:#000000;stroke-width:0.725913;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="18.73526"
+       y="23.123434"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#bdecf5;fill-opacity:1;stroke:none;stroke-width:0.725913"
+         x="18.73526"
+         y="23.123434">Search for Location</tspan></text>
+    <circle
+       style="fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.981523;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2"
+       cx="48.765549"
+       cy="93.281555"
+       r="35" />
+    <text
+       xml:space="preserve"
+       style="font-size:46.4807px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:4.46235;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="129.31097"
+       y="96.395302"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:4.46235;fill:#3c6a73;fill-opacity:1"
+         x="129.31097"
+         y="96.395302">-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.8501px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:1.80969;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="131.59671"
+       y="123.60669"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:1.80969;fill:#3c6a73;fill-opacity:1"
+         x="131.59671"
+         y="123.60669">Cloudy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.3349px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans';fill:#ff9530;fill-opacity:1;stroke:none;stroke-width:0.99219;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       x="190.35396"
+       y="52.6464"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="fill:#ff9530;fill-opacity:1;stroke-width:0.99219"
+         x="190.35396"
+         y="52.6464">C</tspan></text>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff9530;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path8"
+       cx="186.42313"
+       cy="46.150688"
+       r="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Light';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.794;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="12.993473"
+       y="171.23721"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="font-size:10.5833px;fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.794;stroke-dasharray:none;-inkscape-font-specification:'Merriweather Sans Light';font-family:'Merriweather Sans';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="12.993473"
+         y="171.23721">Feels Like</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Light';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.794;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="93.646538"
+       y="171.23721"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="font-size:10.5833px;fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.794;stroke-dasharray:none;-inkscape-font-specification:'Merriweather Sans Light';font-family:'Merriweather Sans';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="93.646538"
+         y="171.23721">Wind </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Light';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="153.96645"
+       y="170.90913"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="stroke-width:0.794;fill:#3c6a73;fill-opacity:1;-inkscape-font-specification:'Merriweather Sans Light';font-family:'Merriweather Sans';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="153.96645"
+         y="170.90913">Pressure</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Light';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="12.993473"
+       y="219.77591"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="stroke-width:0.794;fill:#3c6a73;fill-opacity:1;-inkscape-font-specification:'Merriweather Sans Light';font-family:'Merriweather Sans';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="12.993473"
+         y="219.77591">Humidity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Light';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="93.254959"
+       y="221.0459"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="stroke-width:0.794;fill:#3c6a73;fill-opacity:1;-inkscape-font-specification:'Merriweather Sans Light';font-family:'Merriweather Sans';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="93.254959"
+         y="221.0459">Cloud</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Light';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="154.08286"
+       y="220.67549"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="stroke-width:0.794;fill:#3c6a73;fill-opacity:1;-inkscape-font-specification:'Merriweather Sans Light';font-family:'Merriweather Sans';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="154.08286"
+         y="220.67549">UV</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Semi-Bold';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.794;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="12.993473"
+       y="183.93704"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Semi-Bold';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.794;stroke-dasharray:none"
+         x="12.993473"
+         y="183.93704">-3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Semi-Bold';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.794;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.646538"
+       y="183.93704"
+       id="text18"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Semi-Bold';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.794;stroke-dasharray:none"
+         x="93.646538"
+         y="183.93704">10km/h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Semi-Bold';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="153.96645"
+       y="183.60896"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Semi-Bold';stroke-width:0.794;fill:#3c6a73;fill-opacity:1"
+         x="153.96645"
+         y="183.60896">1018mb</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Semi-Bold';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.794;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="12.993473"
+       y="234.2072"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Semi-Bold';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.794;stroke-dasharray:none"
+         x="12.993473"
+         y="234.2072">94%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Semi-Bold';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.794;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.646538"
+       y="234.2072"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Semi-Bold';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.794;stroke-dasharray:none"
+         x="93.646538"
+         y="234.2072">100</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:2;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Semi-Bold';fill:#3c6a73;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="153.96645"
+       y="233.87912"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Semi-Bold';stroke-width:0.794;fill:#3c6a73;fill-opacity:1"
+         x="153.96645"
+         y="233.87912">0</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#fcdd00;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path23"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="329.13657"
+       sodipodi:cy="20.049786"
+       sodipodi:r1="35.107525"
+       sodipodi:r2="17.553762"
+       sodipodi:arg1="0.37489093"
+       sodipodi:arg2="1.4220885"
+       inkscape:rounded="0.08"
+       inkscape:randomized="0"
+       d="m 361.80579,32.905144 c -0.89065,2.26339 -27.66298,4.144296 -30.06845,4.504669 -2.40548,0.360374 -28.55362,6.407686 -30.06845,4.504669 -1.51483,-1.903016 10.24242,-26.028986 11.13307,-28.292376 0.89064,-2.26339 8.72759,-27.932002 11.13306,-28.292376 2.40548,-0.360373 17.42055,21.884691 18.93539,23.7877076 1.51483,1.9030164 19.82602,21.5243164 18.93538,23.7877064 z"
+       inkscape:transform-center-x="0.062354323"
+       transform="matrix(-0.18350324,0,0.02389964,0,381.19634,7.6361585)" />
+    <rect
+       style="fill:#30c9e8;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect23"
+       width="32.413841"
+       height="34.010429"
+       x="238.06065"
+       y="44.884888"
+       ry="2.9296875e-06" />
+    <rect
+       style="fill:#30c9e8;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect24"
+       width="32.413841"
+       height="34.010429"
+       x="238.06065"
+       y="84.271111"
+       ry="2.9296875e-06" />
+    <rect
+       style="fill:#30c9e8;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect25"
+       width="32.413841"
+       height="34.010429"
+       x="238.06065"
+       y="123.50726"
+       ry="2.9296875e-06" />
+    <rect
+       style="fill:#ff9530;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect26"
+       width="32.413841"
+       height="34.010429"
+       x="238.06065"
+       y="166.70428"
+       ry="2.9296875e-06" />
+    <rect
+       style="fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect27"
+       width="32.413841"
+       height="34.010429"
+       x="276.68991"
+       y="84.271111"
+       ry="2.9296875e-06" />
+    <rect
+       style="fill:#fafafa;fill-opacity:0.698771;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect28"
+       width="32.413841"
+       height="34.010429"
+       x="238.06067"
+       y="83.741943"
+       ry="2.9296875e-06" />
+    <rect
+       style="fill:#424242;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect29"
+       width="32.413841"
+       height="34.010429"
+       x="276.68991"
+       y="124.48779"
+       ry="2.9296875e-06" />
+    <rect
+       style="fill:#424242;fill-opacity:0.69999999;stroke:none;stroke-width:0.793999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect30"
+       width="32.413841"
+       height="34.010429"
+       x="238.06067"
+       y="124.48779"
+       ry="2.9296875e-06" />
+  </g>
+</svg>

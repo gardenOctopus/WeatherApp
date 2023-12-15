@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e3f5f8ff;
+    height: 100vh;
+    font-family: 'Merriweather Sans';
+    color: #3c6a73;
+}
+
+header {
+    background-color: #30c9e8;
+    font-weight: 900;
+    font-size: 20px;
+    padding: 15px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#header-container {
+    display: flex;
+}
+
+form {
+    display: flex;
+    width: 300px;
+}
+
+input,
+header button {
+    border: 0;
+    padding: 5px;
+}
+
+input {
+    background-color: #e3f5f8ff;
+    padding-left: 10px;
+    color: #3c6a73;
+    font-family: 'Merriweather Sans';
+    font-weight: 700;
+    width: 260px;
+}
+
+#submit {
+    background-color: #e3f5f8ff;
+    color: #3c6a73;
+    width: 40px;
+    text-align: center;
+}
+
+#submit:hover {
+    background-color: #bdecf5;
+}
+
+#temp {
+    background-color: #fff;
+    color: #3c6a73;
+    margin-left: 20px;
+    font-family: 'Merriweather Sans';
+    font-weight: 900;
+    font-size: 15px;
+}
+
+#temp:hover {
+    background-color: #fff;
+}
+
+.icon-colour {
+    filter: invert(34%) sepia(29%) saturate(616%) hue-rotate(142deg) brightness(100%) contrast(87%);
+    vertical-align: middle;
+}
+
+#main-container {
+    height: 90vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 75px;
+    margin-bottom: 30px;
+}
+
+.sub-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#sun {
+    margin-right: 20px;
+    width: 130px;
+    height: 130px;
+    border-radius: 100px;
+    background-image: linear-gradient(#ff9530, #f3cda9);
+}
+
+#temperature {
+    font-size: 70px;
+}
+
+#small-text {
+    font-size: 35px;
+    vertical-align: top;
+}
+
+#description {
+    font-size: 30px;
+}
+
+#more-info,
+#more-info div {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#more-info {
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 30px;
+    padding: 20px;
+}
+
+#more-info p {
+    font-size: 18px;
+}
+
+.info {
+    font-weight: 900;
+    font-size: 25px;
+}
+
+@media (max-width: 700px) {
+
+    h1 {
+        font-size: 30px;
+    }
+
+    #responsive {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+}

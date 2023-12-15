@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather+Sans">
+</head>
+<body>
+    <header>
+        <form>
+            <input type="text" placeholder="Search for location">
+            <button type="button" id="submit">
+                <img src="g2.svg" class="icon-colour" alt="search" width="20px" height="20px">
+            </button>
+        </form>
+        <button id="temp">&deg;C</button>
+    </header>
+    <section id="main-container">
+        <h1 id="location">Belleville, ON</h1>
+        <section id="responsive" class="sub-container">
+            <section class="sub-container">
+                <div id="icon">
+                    <div id="sun"></div>
+                </div>
+                <div id="content">
+                    <div id="temperature">-1<span id="small-text">&deg;C</span></div>
+                    <div id="description">Sunny</div>
+                </div>
+            </section>
+            <section id="more-info">
+                <div>
+                    <p>Feels Like</p>
+                    <div id="feels-like" class="info">-3</div>
+                </div>
+                <div>
+                    <p>Wind</p>
+                    <div id="wind" class="info">10km/h</div>
+                </div>
+                <div>
+                    <p>Pressure</p>
+                    <div id="pressure" class="info">1018mb</div>
+                </div>
+                <div>
+                    <p>Humidity</p>
+                    <div id="humidity" class="info">94%</div>
+                </div>
+                <div>
+                    <p>Cloud</p>
+                    <div id="cloud" class="info">100</div>
+                </div>
+                <div>
+                    <p>UV</p>
+                    <div id="uv" class="info">0</div>
+                </div>
+            </section>
+        </section>
+    </section>
+</body>
+<script src="script.js"></script>
+</html>

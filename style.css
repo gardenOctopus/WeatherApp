@@ -22,7 +22,7 @@ header {
     justify-content: space-between;
 }
 
-#header-container {
+.header-container {
     display: flex;
 }
 

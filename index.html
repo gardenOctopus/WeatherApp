@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weather App</title>
-    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather+Sans">
 </head>
 <body>
@@ -18,15 +18,18 @@
         <button id="temp">&deg;C</button>
     </header>
     <section id="main-container">
-        <h1 id="location">Belleville, ON</h1>
+        <h1 id="location"></h1>
         <section id="responsive" class="sub-container">
             <section class="sub-container">
                 <div id="icon">
-                    <div id="sun"></div>
+                    <div id="sun"></div> 
                 </div>
                 <div id="content">
-                    <div id="temperature">-1<span id="small-text">&deg;C</span></div>
-                    <div id="description">Sunny</div>
+                    <div class="header-container">
+                        <div id="temperature"></div>
+                        <span id="small-text">&deg;C</span>
+                    </div>
+                    <div id="description"></div>
                 </div>
             </section>
             <section id="more-info">

@@ -9,6 +9,7 @@ function weather() {
     const cloud = document.getElementById('cloud');
     const uv = document.getElementById('uv');
     const icon = document.getElementById('icon');
+    const amount = document.getElementById('amount');
     fetch('https://api.weatherapi.com/v1/current.json?key=875b6fdf98744187b74112956232411&q=london', {mode: 'cors'})
     .then(function(response) {
     return response.json();
@@ -17,13 +18,14 @@ function weather() {
     location.innerText = response.location.name;
     temperature.innerText = response.current.temp_c + '°C';
     description.innerText = response.current.condition.text;
-    feelsLike.innerText = response.current.feelslike_c + '°C';
+    feelsLike.innerText = 'Feels like ' + response.current.feelslike_c + '°C';
     wind.innerText = response.current.wind_kph + 'km/h';
     pressure.innerText = response.current.pressure_mb + 'mb';
     humidity.innerText = response.current.humidity + '%';
     cloud.innerText = response.current.cloud + '%';
     uv.innerText = response.current.uv;
     icon.src = 'https:' + response.current.condition.icon;
+    amount.innerText = response.current.precip_mm + 'mm';
     });
 }
 

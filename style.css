@@ -24,6 +24,7 @@ header {
 
 .header-container {
     display: flex;
+    align-items: center;
 }
 
 form {
@@ -85,14 +86,14 @@ input {
 }
 
 h1 {
-    font-size: 75px;
-    margin-bottom: 30px;
+    font-size: 45px;
 }
 
 .sub-container {
     display: flex;
     flex-direction: row;
     align-items: center;
+    padding-right: 50px;
 }
 
 #sun {
@@ -104,7 +105,7 @@ h1 {
 }
 
 #temperature {
-    font-size: 70px;
+    font-size: 35px;
 }
 
 #small-text {
@@ -113,7 +114,7 @@ h1 {
 }
 
 #description {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 #more-info,
@@ -132,12 +133,12 @@ h1 {
 }
 
 #more-info p {
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .info {
     font-weight: 900;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 @media (max-width: 700px) {

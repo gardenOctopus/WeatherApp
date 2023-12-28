@@ -11,7 +11,7 @@ function weather() {
     const icon = document.getElementById('icon');
     const amount = document.getElementById('amount');
     const precipitation = document.getElementById('precipitation');
-    fetch('https://api.weatherapi.com/v1/forecast.json?key=875b6fdf98744187b74112956232411&q=London&days=1&aqi=no&alerts=no', {mode: 'cors'})
+    fetch('https://api.openweathermap.org/data/2.5/weather?q=london&APPID=938bf3384ff97e56df0147b5e47a2b02', {mode: 'cors'})
     .then(function(response) {
     return response.json();
     })

@@ -27,8 +27,23 @@ function weather() {
     uv.innerText = response.current.uv;
     icon.src = 'https:' + response.current.condition.icon;
     amount.innerText = response.current.precip_mm + 'mm';
-    precipitation.innerText = response.forecast.forecastday[0].day.chance_of_rain;
+    precipitation.innerText = response.forecast.forecastday[0].day.daily_chance_of_rain + '%';
     });
 }
 
 weather();
+
+function sun() {
+    const sunrise = document.getElementById('sunrise');
+    const sunset = document.getElementById('sunset');
+    fetch('https://api.weatherapi.com/v1/astronomy.json?key=875b6fdf98744187b74112956232411&q=London&days=1&aqi=no&alerts=no', {mode: 'cors'})
+    .then(function(response) {
+        return response.json();
+    })
+    .then(function(response) {
+        sunrise.innerText = response.astronomy.astro.sunrise;
+        sunset.innerText = response.astronomy.astro.sunset;
+    });
+}
+
+sun();

@@ -16,8 +16,8 @@ function weather() {
     return response.json();
     })
     .then(function(response) {
-    location.innerText = response.location.name;
-    temperature.innerText = response.current.temp_c + '°C';
+    location.innerText = response.name;
+/*     temperature.innerText = response.current.temp_c + '°C';
     description.innerText = response.current.condition.text;
     feelsLike.innerText = 'Feels like ' + response.current.feelslike_c + '°C';
     wind.innerText = response.current.wind_kph + 'km/h';
@@ -27,7 +27,7 @@ function weather() {
     uv.innerText = response.current.uv;
     icon.src = 'https:' + response.current.condition.icon;
     amount.innerText = response.current.precip_mm + 'mm';
-    precipitation.innerText = response.forecast.forecastday[0].day.chance_of_rain;
+    precipitation.innerText = response.forecast.forecastday[0].day.chance_of_rain; */
     });
 }
 
